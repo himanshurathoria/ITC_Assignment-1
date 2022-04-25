@@ -1,1 +1,1 @@
-# ITC_Lab assignment -1
+# Intro-to-computing
